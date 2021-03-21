@@ -1,0 +1,12 @@
+{
+	"name": "Categories any where",
+	"description": "Provides a basic widget for displaying Categories any where",
+	"uri":"https://github.com/ostack/qa-categories-widget",
+	"version": "1.0",
+	"date": "2021-03-21",
+	"author": "Zhao Guangyue",
+	"author_uri": "https://ostack.cn",
+	"license": "GPLv2",
+	"min_q2a": "1.4",
+	"load_order": "after_db_init"
+}
